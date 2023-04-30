@@ -1,6 +1,6 @@
 # KUKA_YouBot
 
-### 4. Complete the following tasks by filling in the python code templates in the packages "cwl/cw1q4-srv" and "cw1/cw1q4" to create services that perform representation transformations. 
+### 4. Complete the following tasks by filling in the python code templates in the packages "cw1/cw1q4-srv" and "cw1/cw1q4" to create services that perform representation transformations. 
 
 a. Fill in the template in package "cwl/cw1q4-srv" with the appropriate request and response message types for each service.
 The quaternion message is "geometry-msgs/Quaternion", namely 'q'.
