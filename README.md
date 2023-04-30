@@ -15,3 +15,5 @@ c. Fill in the template in package "cwl/cwlq4" to create a service that converts
 • Fill the "youbot-dh-parameters" dictionary with the youbot DH parameters.
 • Fill the "youbot-joint-offsets" dictionary to account for the joint offsets between the you found and the xarco representation. 
 • Implement the 'tkine-wrapper()' function and initialize the subscriber.
+
+![](https://github.com/akshetP/KUKA_YouBot/blob/main/KUKA%20YouBot.jpeg) <br>
